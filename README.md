@@ -30,16 +30,6 @@
 
 <h2></h2>
 
-### My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Rodrigues&theme=yeblu&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago-Rodrigues&show_icons=true&theme=yeblu&hide_border=true" alt="GitHub Stats"/>
-</div>
-
-<h2></h2>
-
 ### Tech Stack
 
 <div align="center">
