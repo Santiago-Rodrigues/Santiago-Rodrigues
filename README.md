@@ -45,7 +45,7 @@
 ### My Portfolio
 
 <div>
-  <a href='https://portifoliosantiagorod.web.app'>Take a look</a>
+  <a href='https://portifoliosantiagorod.web.app' style={{textDecoration:'none'}}>Take a look</a>
 </div>
 
 <h2></h2>
